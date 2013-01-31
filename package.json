@@ -1,0 +1,11 @@
+{
+	"name": "redirect",
+	"version": "0.0.1",
+	"main": "./lib/redirect.js",
+	"description": "redirect allows you to configure a default domain and redirect any requests to this domain.",
+	"author": "Golo Roden",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/goloroden/silkveiljs-redirect.git"
+	}
+}
